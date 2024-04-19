@@ -17,5 +17,5 @@ public class Todo {
 
     private LocalDate date;
 
-    private boolean active;
+    private Boolean active;
 }
